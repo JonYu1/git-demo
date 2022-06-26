@@ -1,5 +1,5 @@
 hello athuigu hello git
-hello athuigu hello git
+hello athuigu hello git hot-fix commit!
 hello athuigu hello git
 hello athuigu hello git
 hello athuigu hello git
